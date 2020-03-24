@@ -1,0 +1,22 @@
+h1 {font-family: Garamond 
+color}
+li {background-colour: blue} 
+h1
+  {text-align: center; 
+   border: 5px violet
+   double}
+img
+{display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50% ;}
+img 
+{border: 5px double #ddd;
+border-radius: 4px;
+padding: 7px;
+width: 350px
+border-color blue}
+blockquote {background-color: purple}
+body {background-image: url("Background.jpg)}
+p {background-color: violet}
+
